@@ -1,118 +1,97 @@
-# 👋 Hey there, I'm Bobby Thomas Thomas
+<h1 align="center">Hey, I'm Bobby Thomas Thomas 👋</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=AI+Engineer+%7C+ML+Developer+%7C+Full-Stack+Creator" alt="Typing SVG" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&color=00CED1&lines=AI+%7C+Web+Dev+%7C+HealthTech+Builder;Solving+Real+Problems+with+ML+%26+LLMs;Final+Year+AI+%26+DS+Student+%7C+India;Full-stack+Thinker+%7C+Data+Lover+%7C+Open+Source+Believer" alt="Typing SVG" />
+  <a href="https://github.com/bobbythomas985">
+    <img src="https://komarev.com/ghpvc/?username=BobbyThomasThomas&label=Profile%20views&color=0e75b6&style=flat" alt="BobbyThomasThomas" />
+  </a>
+  <a href="mailto:bobbythomasthomas23gmail.com">
+    <img src="https://img.shields.io/badge/Email-bobbythomasdev@gmail.com-red?style=flat-square" />
+  </a>
+  <a href="https://your-portfolio-link.com">
+    <img src="https://img.shields.io/badge/Portfolio-Click_Here-green?style=flat-square&logo=google-chrome" />
+  </a>
 </p>
 
 ---
 
-🎓 Final-year B.Tech student in **Artificial Intelligence & Data Science**  
-🧠 Passionate about **ML**, **NLP**, **LLMs**, **Web Dev**, and **Data Engineering**  
-🚀 Focus: Healthcare AI, Assistive Tech, Real-time Systems & Clean UI  
-💡 Builder at heart | Curious by nature | Always experimenting  
+### 👨‍💻 About Me
+- 🔬 AI/ML Engineer | Full-Stack Developer | Passionate Researcher  
+- 🧠 I work on real-world problems across healthcare, misinformation, accessibility, and education
+- 🚀 Currently building **Ariyaam** – An AI-powered Health Claim Verifier  
+- ⚡ Fun fact: I love simplifying complex AI tech for everyone  
 
 ---
 
-## 🚀 Languages & Tools
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-%23FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
+### 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FE6F00?style=for-the-badge&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFAE1A?style=for-the-badge&logo=huggingface&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase)
+![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ---
 
-## 🔥 Highlight Projects
+### 🌟 Featured Projects
 
-### 🦻 SmartSight – AI Glasses for the Visually Impaired ✅  
-OCR + TTS + Object Detection + Navigation using Mobile Processing  
-📦 Stack: Python, Doctr, Whisper, Flask, Google Maps API
+#### 🔬 Ariyaam: AI-Powered Health Claim Verifier
+> Verifies medical claims from social media using Whisper, BioBERT, CLIP & FAISS against trusted sources  
+[🔗 GitHub Repo](https://github.com/BobbyThomasThomas/ariyaam) · [📹 Demo Coming Soon]
 
-### 🧠 Ariyaam – AI-Powered Health Claim Verifier ✅  
-Whisper + BioBERT + PubMed + LangChain + CLIP + FAISS  
-AI to detect misinformation in videos and posts with verified sources
+#### 👓 SmartSight: Smart Glasses for the Visually Impaired  
+> OCR + TTS-based wearable AI for real-time text reading, object detection, and navigation  
+[🔗 GitHub Repo](https://github.com/bobbythomas985/SmartSight)
 
-### ✈️ Flight Risk Predictor – Aviation Incident Forecaster ✅  
-Uses OpenSky + ASN + LSTM + METAR data for phase-based predictions  
-Built with TensorFlow, real datasets, and visual insights
-
----
-
-## 🧪 Projects In Progress 
-
-### 🩻 MediScan AI *(WIP)*  
-AI to analyze chest X-rays and MRIs  
-Vision Transformers + Grad-CAM + DICOM integration
-
-### 🔊 VoiceGuard *(WIP)*  
-Deepfake voice detector using Whisper, spectral analysis & forensic embeddings  
-Addresses rising AI misuse in media and calls
-
-### 📚 ScholarGPT *(WIP)*  
-LLM-based research paper summarizer, critic, scorer, and explainability visualizer  
-GPT-4 + LangChain + Semantic Graphs + ArXiv API
+#### 📊 Real-Time Aviation Risk Predictor  
+> Predicts air incident likelihood using OpenSky & METAR data with LSTM + attention  
+[🔗 GitHub Repo](#) · [🛰️ Deployed in Colab]
 
 ---
 
-## 🌐 Web Development Projects
+### 🧪 Upcoming High-Impact Projects
 
-### 🔐 CredVault *(WIP)*  
-A secure password manager and personal vault with AES encryption  
-Full-stack app with Flask + React + Auth
-
-### 💼 HireMe *(WIP)*  
-A personal portfolio generator + resume rating tool  
-Integrates OpenAI + resume parser + job match APIs
-
-### 🧩 CodeBits *(WIP)*  
-Pastebin + code runner + blog CMS  
-Markdown + syntax highlighting + live preview
+- 🔎 **AI Paper Explainer:** Upload a PDF and get simplified summaries + fact-checking + related research  
+- 🧠 **NeuroBot:** Mental health AI companion using emotion detection + GPT-4 + journaling analysis  
+- 🩺 **Disease Forecasting Dashboard:** Spatio-temporal predictions of outbreaks using weather + news + records  
+- 🌐 **Full Portfolio Site** – Responsive, animated, includes blog + project case studies  
+- 🚀 **Github Action Pipelines** – Auto-deploy Hugging Face spaces & Colab notebooks  
+- 📦 **DataStory Generator:** Upload any CSV and get charts, dashboards, and narrated insights
 
 ---
 
-## 📊 Data Science Projects
+### 🌐 Let's Connect
 
-### 📈 StockSage *(WIP)*  
-Stock analysis dashboard with Time Series modeling  
-LSTM + Prophet + news correlation
-
-### 🧮 IndiaPulse *(WIP)*  
-Interactive data viz on health, education, crime, employment  
-Dash + Plotly + Census + Gov APIs
-
-### 📊 AutoDS (prev. TDS Project) ✅  
-EDA + visualization + narration from uploaded CSV  
-Pandas + Matplotlib + AI story generator
+<p align="center">
+  <a href="mailto:bobbythomasthomas23@gmail.com"><img src="https://img.shields.io/badge/Gmail-BobbyThomasThomas-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://github.com/bobbythomas985"><img src="https://img.shields.io/badge/GitHub-BobbyThomasThomas-181717?style=for-the-badge&logo=github"></a>
+  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-ComingSoon-blue?style=for-the-badge&logo=google-chrome"></a>
+</p>
 
 ---
 
-## 📈 GitHub Stats
+### 📈 GitHub Stats
 
-![Bobby's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bobbythomas985&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=bobbythomas985&theme=tokyonight&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bobbythomas985&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BobbyThomasThomas&show_icons=true&theme=radical" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=BobbyThomasThomas&theme=radical&hide_border=true" height="165"/>
+</p>
 
----
-
-## 🏆 GitHub Trophies
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=bobbythomas985&theme=algolia&no-bg=true&margin-w=10)
-
----
-
-## 📬 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bobbythomas985)  
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bobbythomas985@gmail.com)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BobbyThomasThomas&layout=compact&theme=radical&langs_count=8"/>
+</p>
 
 ---
 
-_“Think deeply. Build responsibly. Let your code speak louder than your resume.”_
+### 🏆 GitHub Trophy
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=BobbyThomasThomas&theme=radical&no-frame=true&row=1&&margin-w=20" />
+</p>
