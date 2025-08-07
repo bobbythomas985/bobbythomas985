@@ -46,7 +46,7 @@ Built with TensorFlow, real datasets, and visual insights
 
 ---
 
-## 🧪 Projects In Progress (To Make Me Stand Out)
+## 🧪 Projects In Progress 
 
 ### 🩻 MediScan AI *(WIP)*  
 AI to analyze chest X-rays and MRIs  
