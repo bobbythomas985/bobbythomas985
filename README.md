@@ -1,7 +1,7 @@
-here<h1 align="center">Hi 👋, I'm Bobby Thomas Thomas</h1>
+<h1 align="center">Hi 👋, I'm Bobby Thomas Thomas</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=700&lines=AI+%26+Data+Science+Student+🎓;Generative+AI+%26+LLM+Developer+🧠;Machine+Learning+Engineer+🚀;Cloud+%26+DevOps+Explorer+☁️;Lifelong+Learner+📚" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=700&lines=AI+%26+Data+Science+Undergraduate+🎓;Generative+AI+%26+LLM+Engineer+🧠;Machine+Learning+Developer+🚀;Cloud+%26+DevOps+Explorer+☁️;Lifelong+Learner+📚" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -22,6 +22,7 @@ here<h1 align="center">Hi 👋, I'm Bobby Thomas Thomas</h1>
   <img src="https://img.shields.io/badge/LangChain-333333?style=flat" />
   <img src="https://img.shields.io/badge/FAISS-333333?style=flat" />
   <img src="https://img.shields.io/badge/Vector%20Databases-333333?style=flat&logo=databricks" />
+  <img src="https://img.shields.io/badge/Time%20Series%20Analysis-333333?style=flat" />
   <img src="https://img.shields.io/badge/Django-333333?style=flat&logo=django" />
   <img src="https://img.shields.io/badge/React-333333?style=flat&logo=react" />
   <img src="https://img.shields.io/badge/Streamlit-333333?style=flat&logo=streamlit" />
@@ -33,70 +34,60 @@ here<h1 align="center">Hi 👋, I'm Bobby Thomas Thomas</h1>
 
 ---
 
-## 🧠 Featured Projects
+## 🧠 Projects That Stand Out
 
-<details>
-<summary>📂 Click to Expand</summary>
-
-| Project | Description |
-|--------|-------------|
-| [**Ariyaam: AI Health Claim Verifier**](#) | Verifies health-related social media content using Whisper, BioBERT, and CLIP. Includes explainable AI (LIME/SHAP), translation, and medical source citations. |
-| [**SmartSight: AI Glasses for Visually Impaired**](#) | Wearable device using OCR, TTS, and object/face detection for navigation and accessibility. |
-| [**Research Paper Assistant GPT**](#) | LLM-powered research companion using LangChain + FAISS to summarize papers, extract key points, and find related studies. |
-| [**Movie Recommendation System**](#) | Built with Python + Streamlit + SQLite, featuring collaborative filtering and content-based recommendations. |
-| [**Impact of Waste Dumping on Air Pollution**](#) | Time-series analysis of PM2.5, NO2, SO2 across multiple states to assess pollution trends. |
-| [**AI Dashboard** *(Upcoming)*](#) | Full-stack dashboard to visualize and track LLM fine-tuning, metrics, and embeddings. |
-
-</details>
+| **Project** | **Description** |
+|-------------|----------------|
+| **Ariyaam: AI Health Claim Verifier** | Verifies health-related social media content using Whisper, BioBERT, and CLIP. Includes explainable AI (LIME/SHAP), translation, and medical source citations. |
+| **SmartSight: AI Glasses for Visually Impaired** | Smart glasses using OCR, TTS, and object/face detection for accessible navigation and reading. |
+| **Research Paper Assistant GPT** | Upload academic papers → get summaries, key points, and related research via LangChain + FAISS + Groq. |
+| **Movie Recommendation System** | Built with Python + Streamlit + SQLite featuring collaborative filtering and secure data handling. |
+| **Air Pollution Impact Analysis** | Time-series modeling of PM2.5, NO₂, SO₂ across multiple states to assess waste dumping effects. |
+| **OpenFlightPredict** | LSTM-based model trained on OpenSky + ASN data for aviation risk forecasting. |
+| **DevAudit** | ML-powered ATS analyzer that evaluates resumes, gives scoring and actionable feedback. |
+| **AI Dashboard** *(Upcoming)* | Full-stack dashboard to visualize LLM experiments, embeddings, and metrics. |
+| **VisionaryQuiz** *(Upcoming)* | Web app using OCR + TTS + Whisper to help visually impaired children take quizzes. |
 
 ---
 
-## ☁️ Cloud & DevOps
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Google%20Cloud-Certified-blue?style=for-the-badge&logo=googlecloud" />
-  <img src="https://img.shields.io/badge/AWS-EC2%2FS3-orange?style=for-the-badge&logo=amazonaws" />
-  <img src="https://img.shields.io/badge/Azure-DevOps-blue?style=for-the-badge&logo=microsoftazure" />
-  <img src="https://img.shields.io/badge/GitHub-Actions-black?style=for-the-badge&logo=githubactions" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bobbythomas985&show_icons=true&theme=radical" alt="Bobby's GitHub stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bobbythomas985&theme=radical" alt="GitHub Streak" width="48%" />
 </p>
 
 ---
 
-## 📊 GitHub Insights
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bobbythomas985&show_icons=true&theme=radical" alt="Bobby's GitHub stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bobbythomas985&theme=radical" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=bobbythomas985&theme=radical&no-frame=true&margin-w=10&row=2&column=4" />
 </p>
 
 ---
 
-## 🏆 Achievements & Certifications
+## 🎖 Achievements & Certifications
 
-<details>
-<summary>📜 Expand to View</summary>
-
-- 🎓 **B-Tech in Artificial Intelligence & Data Science** (2022-2026)  
-- 🎖 **IBM SkillsBuild Data Analyst Internship** – Data visualization & statistical modeling  
+- 🎓 **B.Tech in Artificial Intelligence & Data Science** (2022–2026)  
 - 🏅 **Google Cloud Computing Certification**  
+- 🎖 **IBM SkillsBuild Data Analyst Internship** (Data Visualization & Statistical Modeling)  
 - 🏅 **NPTEL Elite: Python for Data Science**  
 - 📜 **Cambridge Linguaskill B2 (CEFR)**  
-
-</details>
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/bobbythomas" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  <a href="https://linkedin.com/in/bobby-thomas-thomas" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:22ad308@mgits.ac.in">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://your-portfolio-site.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?style=for-the-badge&logo=firefox&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
 </p>
 
@@ -104,11 +95,21 @@ here<h1 align="center">Hi 👋, I'm Bobby Thomas Thomas</h1>
 
 ## 🧩 Fun Facts
 
-- 🧠 Exploring **Generative AI & LLMs** to solve real-world problems  
-- 📊 Passionate about **data analysis & time-series forecasting**  
-- 🧪 Love combining AI, accessibility, and health tech for impact  
-- 🎯 Goal: Make AI solutions scalable, ethical, and inclusive  
+- 🌍 I love solving real-world problems using AI.  
+- 📚 Constantly exploring research papers and implementing cutting-edge NLP ideas.  
+- 🧪 Passionate about blending AI, accessibility, and health technology.  
+- 🎯 Goal: Make technology inclusive, reliable, and ethically sound.  
 
 ---
 
-> *“Transforming data into intelligent, accessible solutions.”*
+## ⚡ Recent Activity
+
+<!--START_SECTION:activity-->
+1. 🧠 Worked on AI-Powered Health Claim Verifier - **Ariyaam**  
+2. 🔍 Extracted and indexed PubMed abstracts using FAISS  
+3. ⚙️ Deployed LangChain + Groq pipeline for summarization  
+<!--END_SECTION:activity-->
+
+---
+
+> *“Transforming ideas into intelligent, accessible solutions.”*
