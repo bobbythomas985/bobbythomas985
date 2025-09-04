@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bobby Thomas Thomas</h1>
 
-<p align="center">    
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=700&lines=AI+Engineer+%E2%9A%99%EF%B8%8F;ML+Developer+%F0%9F%9A%80;Full-Stack+Creator+%F0%9F%96%A5%EF%B8%8F;Open+Source+Contributor+%F0%9F%94%A5;Lifelong+Learner+%F0%9F%93%9A" alt="Typing SVG" />    
-</p>    
+<p align="center">  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=700&lines=AI+%26+Data+Science+Undergraduate+%F0%9F%8E%93;Generative+AI+%26+LLM+Engineer+%F0%9F%A7%A0;Machine+Learning+Developer+%F0%9F%9A%80;Cloud+%26+DevOps+Explorer+%E2%98%81%EF%B8%8F;Lifelong+Learner+%F0%9F%93%9A" alt="Typing SVG" />  
+</p>  
+ 
 
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
