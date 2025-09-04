@@ -26,13 +26,13 @@
 
 <p align="center">
   <a href="https://github.com/bobbythomas985/Ariyaam-AI-Powered-Health-Claim-Verifier">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bobbythomas985&repo=ariyaam&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bobbythomas985&repo=Ariyaam-AI-Powered-Health-Claim-Verifier&theme=radical" />
   </a>
   <a href="https://github.com/RXCodeZero/SmartSight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bobbythomas985&repo=smartsight&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RXCodeZero&repo=SmartSight&theme=radical" />
   </a>
   <a href="https://github.com/bobbythomas985/Research_Assistant">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bobbythomas985&repo=research-assistant&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bobbythomas985&repo=Research_Assistant&theme=radical" />
   </a>
   <a href="https://github.com/bobbythomas985/MovieNights">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=bobbythomas985&repo=MovieNights&theme=radical" />
