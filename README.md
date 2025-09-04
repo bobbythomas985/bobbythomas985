@@ -25,20 +25,23 @@
 ## 🧠 Featured Projects  
 
 <p align="center">
-  <a href="https://github.com/bobbythomas985/ariyaam">
+  <a href="https://github.com/bobbythomas985/Ariyaam-AI-Powered-Health-Claim-Verifier">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=bobbythomas985&repo=ariyaam&theme=radical" />
   </a>
-  <a href="https://github.com/bobbythomas985/smartsight">
+  <a href="https://github.com/RXCodeZero/SmartSight">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=bobbythomas985&repo=smartsight&theme=radical" />
   </a>
-  <a href="https://github.com/bobbythomas985/research-assistant">
+  <a href="https://github.com/bobbythomas985/Research_Assistant">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=bobbythomas985&repo=research-assistant&theme=radical" />
   </a>
-  <a href="https://github.com/bobbythomas985/openflightpredict">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bobbythomas985&repo=openflightpredict&theme=radical" />
+  <a href="https://github.com/bobbythomas985/MovieNights">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bobbythomas985&repo=MovieNights&theme=radical" />
   </a>
-  <a href="https://github.com/bobbythomas985/dev-audit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bobbythomas985&repo=dev-audit&theme=radical" />
+  <a href="https://github.com/bobbythomas985/Chef-ChatBot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bobbythomas985&repo=Chef-ChatBot&theme=radical" />
+  </a>
+  <a href="https://github.com/bobbythomas985/ResumeQABot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bobbythomas985&repo=ResumeQABot&theme=radical" />
   </a>
 </p>
 
