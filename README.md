@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bobby Thomas Thomas</h1>
 
 <p align="center">  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&multiline=false&width=700&lines=AI+%26+Data+Science+Undergraduate+%F0%9F%8E%93;Generative+AI+%26+LLM+Engineer+%F0%9F%A7%A0;Machine+Learning+Developer+%F0%9F%9A%80;Cloud+%26+DevOps+Explorer+%E2%98%81%EF%B8%8F;Lifelong+Learner+%F0%9F%93%9A" alt="Typing SVG" />  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&multiline=false&width=700&lines=AI+%26+Data+Science+Undergraduate+%F0%9F%8E%93;Generative+AI+%26+LLM+Engineer+%F0%9F%A7%A9;Machine+Learning+Developer+%F0%9F%9A%80;Cloud+%26+DevOps+Explorer+%E2%98%81%EF%B8%8F;Lifelong+Learner+%F0%9F%93%9A" alt="Typing SVG" />  
 </p>  
  
 
