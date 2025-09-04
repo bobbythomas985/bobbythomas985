@@ -3,8 +3,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6F61,100:4285F4&height=200&section=header&text=Bobby%20Thomas%20Thomas&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
+<!-- Typing Animation without emojis (fixes cut-off issue) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&multiline=true&width=900&lines=AI+%26+Data+Science+Undergraduate+🎓;Generative+AI+%26+LLM+Engineer+🧠;Machine+Learning+Developer+🚀;Cloud+%26+DevOps+Explorer+☁️;Lifelong+Learner+📚"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&multiline=true&width=900&lines=AI+%26+Data+Science+Undergraduate;Generative+AI+%26+LLM+Engineer;Machine+Learning+Developer;Cloud+%26+DevOps+Explorer;Lifelong+Learner"/>
 </p>
 
 <p align="center">
@@ -23,72 +24,38 @@
 
 ## 🧠 Featured Projects  
 
-<div align="center">
+<!-- Carousel-like scrollable cards -->
+<div align="center" style="display: flex; gap: 20px; overflow-x: auto; padding: 10px;">
+  
+<a href="https://github.com/bobbythomas985/ariyaam" style="text-decoration:none;">
+  <img src="https://img.shields.io/badge/Ariyaam-Health%20Claim%20Verifier-blue?style=for-the-badge" /><br>
+  <img src="https://img.shields.io/badge/LLM-PubMedBERT-blue?style=flat-square"/> <img src="https://img.shields.io/badge/ASR-Whisper-orange?style=flat-square"/> <img src="https://img.shields.io/badge/FAISS-VectorDB-green?style=flat-square"/>
+</a>
 
-<table>
-<tr>
-<td width="45%" align="center">
+<a href="https://github.com/bobbythomas985/smartsight" style="text-decoration:none;">
+  <img src="https://img.shields.io/badge/SmartSight-Accessible%20AI%20Glasses-green?style=for-the-badge" /><br>
+  <img src="https://img.shields.io/badge/OpenCV-ComputerVision-blue?style=flat-square"/> <img src="https://img.shields.io/badge/TTS-GoogleAPI-green?style=flat-square"/> <img src="https://img.shields.io/badge/PyTorch-Detection-orange?style=flat-square"/>
+</a>
 
-### [Ariyaam: AI Health Claim Verifier](https://github.com/bobbythomas985/ariyaam)  
-🧠 **Whisper + BioBERT + FAISS + CLIP**  
-Fact-checks health claims from social media with explainable AI + PubMed evidence.  
+<a href="https://github.com/bobbythomas985/research-assistant" style="text-decoration:none;">
+  <img src="https://img.shields.io/badge/Research%20Assistant%20GPT-Paper%20QA%20&%20Summarizer-red?style=for-the-badge" /><br>
+  <img src="https://img.shields.io/badge/LangChain-QA-blue?style=flat-square"/> <img src="https://img.shields.io/badge/FAISS-Retrieval-green?style=flat-square"/> <img src="https://img.shields.io/badge/Groq-LLM-orange?style=flat-square"/>
+</a>
 
-![Tech](https://img.shields.io/badge/LLM-PubMedBERT-blue?style=flat-square) ![Whisper](https://img.shields.io/badge/ASR-Whisper-orange?style=flat-square) ![Vector Search](https://img.shields.io/badge/FAISS-VectorDB-green?style=flat-square)
+<a href="https://github.com/bobbythomas985/openflightpredict" style="text-decoration:none;">
+  <img src="https://img.shields.io/badge/OpenFlightPredict-Aviation%20Risk%20AI-orange?style=for-the-badge" /><br>
+  <img src="https://img.shields.io/badge/LSTM-DeepLearning-blue?style=flat-square"/> <img src="https://img.shields.io/badge/OpenSky-API-green?style=flat-square"/> <img src="https://img.shields.io/badge/Pandas-ETL-orange?style=flat-square"/>
+</a>
 
-</td>
-<td width="45%" align="center">
+<a href="https://github.com/bobbythomas985/dev-audit" style="text-decoration:none;">
+  <img src="https://img.shields.io/badge/DevAudit-ATS%20Resume%20Analyzer-purple?style=for-the-badge" /><br>
+  <img src="https://img.shields.io/badge/NLP-Spacy-blue?style=flat-square"/> <img src="https://img.shields.io/badge/Flask-API-green?style=flat-square"/> <img src="https://img.shields.io/badge/React-UI-orange?style=flat-square"/>
+</a>
 
-### [SmartSight](https://github.com/bobbythomas985/smartsight)  
-👓 **OCR + TTS + Object/Face Detection**  
-Smart glasses for visually impaired users with navigation & reading assistance.  
-
-![Tech](https://img.shields.io/badge/OpenCV-ComputerVision-blue?style=flat-square) ![Tech](https://img.shields.io/badge/TTS-GoogleAPI-green?style=flat-square) ![Tech](https://img.shields.io/badge/PyTorch-Detection-orange?style=flat-square)
-
-</td>
-</tr>
-
-<tr>
-<td width="45%" align="center">
-
-### [Research Paper Assistant GPT](https://github.com/bobbythomas985/research-assistant)  
-📚 **LangChain + FAISS + Groq**  
-Upload papers → get summaries, key points, & related work.  
-
-![Tech](https://img.shields.io/badge/LangChain-QA-blue?style=flat-square) ![Tech](https://img.shields.io/badge/FAISS-Retrieval-green?style=flat-square) ![Tech](https://img.shields.io/badge/Groq-LLM-orange?style=flat-square)
-
-</td>
-<td width="45%" align="center">
-
-### [OpenFlightPredict](https://github.com/bobbythomas985/openflightpredict)  
-✈️ **LSTM + OpenSky + ASN**  
-Predicts aviation risk using flight data + weather + incident logs.  
-
-![Tech](https://img.shields.io/badge/LSTM-DeepLearning-blue?style=flat-square) ![Tech](https://img.shields.io/badge/OpenSky-API-green?style=flat-square) ![Tech](https://img.shields.io/badge/Pandas-ETL-orange?style=flat-square)
-
-</td>
-</tr>
-
-<tr>
-<td width="45%" align="center">
-
-### [DevAudit](https://github.com/bobbythomas985/dev-audit)  
-📝 **NLP + Resume Parsing**  
-ATS analyzer that scores resumes & gives actionable feedback.  
-
-![Tech](https://img.shields.io/badge/NLP-Spacy-blue?style=flat-square) ![Tech](https://img.shields.io/badge/Flask-API-green?style=flat-square) ![Tech](https://img.shields.io/badge/React-UI-orange?style=flat-square)
-
-</td>
-<td width="45%" align="center">
-
-### VisionaryQuiz *(Upcoming)*  
-🧩 **OCR + Whisper + TTS**  
-Inclusive quiz platform for visually impaired students.  
-
-![Tech](https://img.shields.io/badge/Whisper-ASR-blue?style=flat-square) ![Tech](https://img.shields.io/badge/Streamlit-App-green?style=flat-square)
-
-</td>
-</tr>
-</table>
+<a href="#" style="text-decoration:none;">
+  <img src="https://img.shields.io/badge/VisionaryQuiz-Inclusive%20Quiz%20App-lightgrey?style=for-the-badge" /><br>
+  <img src="https://img.shields.io/badge/Whisper-ASR-blue?style=flat-square"/> <img src="https://img.shields.io/badge/Streamlit-App-green?style=flat-square"/>
+</a>
 
 </div>
 
