@@ -106,9 +106,9 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🧠 Worked on AI-Powered Health Claim Verifier - **Ariyaam**  
-2. 🔍 Extracted and indexed PubMed abstracts using FAISS  
-3. ⚙️ Deployed LangChain + Groq pipeline for summarization  
+1. Worked on chatbots  
+2. Extracted and indexed PubMed abstracts using FAISS  
+3. Deployed LangChain + Groq pipeline for summarization  
 <!--END_SECTION:activity-->
 
 ---
