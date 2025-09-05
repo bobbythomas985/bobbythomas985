@@ -1,6 +1,6 @@
 <!-- Gradient Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6F61,100:4285F4&height=200&section=header&text=Bobby%20Thomas%20Thomas&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6F61,100:4285F4&height=200&section=header&text=Hey👋%20I%20Am%20Bobby%20Thomas%20Thomas&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 <!-- Typing Animation (no emojis to prevent cutoff) -->
